@@ -31,4 +31,12 @@ public class Producto implements Comparable<Producto>{
     public int compareTo(Producto producto) {
         return codigo.compareTo(producto.getCodigo());
     }
+
+    @Override
+    public String toString() {
+        return "Producto{" +
+                "nombre='" + nombre + '\'' +
+                ", codigo=" + codigo +
+                '}';
+    }
 }

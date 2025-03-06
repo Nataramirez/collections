@@ -1,5 +1,6 @@
 package co.edu.uniquindio.tallerCollections.Ejercicio1.modelos;
 
+import java.util.Iterator;
 import java.util.TreeSet;
 
 public class Empresa {
@@ -9,6 +10,17 @@ public class Empresa {
         productos.add(producto);
     }
 
-    public void buscarProducto(Integer codigo, TreeSet<Producto> productos) {
+    public Producto buscarProducto(Integer codigo) {
+        Producto producto = null;
+        Iterator<Producto> listaProductos = productos.iterator();
+        while (listaProductos.hasNext() && producto == null) {
+            Producto productoActual = listaProductos.next();
+            Integer codigoActual = productoActual.getCodigo();
+            if(codigoActual == codigo){
+                producto = productoActual;
+            }
+        }
+        return producto;
     }
+
 }
