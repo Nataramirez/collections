@@ -1,4 +1,4 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio8.modelo;
+package co.edu.uniquindio.tallerCollections.ejercicio_08.modelo;
 
 import java.util.Vector;
 

@@ -1,8 +1,8 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio5;
+package co.edu.uniquindio.tallerCollections.ejercicio_05;
 
-import co.edu.uniquindio.tallerCollections.Ejercicio5.modelo.ProductosHashMap;
-import co.edu.uniquindio.tallerCollections.Ejercicio5.modelo.ProductosLinkedHashMap;
-import co.edu.uniquindio.tallerCollections.Ejercicio5.modelo.ProductosTreeMap;
+import co.edu.uniquindio.tallerCollections.ejercicio_05.modelo.ProductosHashMap;
+import co.edu.uniquindio.tallerCollections.ejercicio_05.modelo.ProductosLinkedHashMap;
+import co.edu.uniquindio.tallerCollections.ejercicio_05.modelo.ProductosTreeMap;
 
 public class Main {
     public static void main(String[] args) {

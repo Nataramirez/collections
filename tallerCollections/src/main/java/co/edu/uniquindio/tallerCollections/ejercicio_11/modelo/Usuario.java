@@ -1,4 +1,4 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio11.modelo;
+package co.edu.uniquindio.tallerCollections.ejercicio_11.modelo;
 
 import java.util.LinkedHashSet;
 import java.util.Set;

@@ -1,6 +1,6 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio2;
+package co.edu.uniquindio.tallerCollections.ejercicio_02;
 
-import co.edu.uniquindio.tallerCollections.Ejercicio2.modelo.ObjetosStack;
+import co.edu.uniquindio.tallerCollections.ejercicio_02.modelo.ObjetosStack;
 
 public class Main {
     public static void main(String[] args) {

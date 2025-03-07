@@ -1,4 +1,4 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio5.modelo;
+package co.edu.uniquindio.tallerCollections.ejercicio_05.modelo;
 
 import java.util.HashMap;
 import java.util.Map;

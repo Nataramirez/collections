@@ -1,4 +1,4 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio14.modelo;
+package co.edu.uniquindio.tallerCollections.ejercicio_14.modelo;
 
 import java.util.ArrayDeque;
 

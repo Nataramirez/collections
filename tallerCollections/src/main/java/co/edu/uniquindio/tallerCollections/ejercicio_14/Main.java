@@ -1,6 +1,6 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio14;
+package co.edu.uniquindio.tallerCollections.ejercicio_14;
 
-import co.edu.uniquindio.tallerCollections.Ejercicio14.modelo.HistorialMensajes;
+import co.edu.uniquindio.tallerCollections.ejercicio_14.modelo.HistorialMensajes;
 
 public class Main {
     public static void main(String[] args) {

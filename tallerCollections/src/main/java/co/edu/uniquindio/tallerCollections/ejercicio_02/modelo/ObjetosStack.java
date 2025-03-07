@@ -1,4 +1,4 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio2.modelo;
+package co.edu.uniquindio.tallerCollections.ejercicio_02.modelo;
 
 import java.util.Stack;
 

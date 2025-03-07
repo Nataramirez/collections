@@ -1,4 +1,4 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio11.modelo;
+package co.edu.uniquindio.tallerCollections.ejercicio_11.modelo;
 
 public class Cancion {
     private String titulo;

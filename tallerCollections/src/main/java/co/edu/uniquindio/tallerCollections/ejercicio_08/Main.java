@@ -1,6 +1,6 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio8;
+package co.edu.uniquindio.tallerCollections.ejercicio_08;
 
-import co.edu.uniquindio.tallerCollections.Ejercicio8.modelo.EditorTexto;
+import co.edu.uniquindio.tallerCollections.ejercicio_08.modelo.EditorTexto;
 
 public class Main {
     public static void main(String[] args) {
