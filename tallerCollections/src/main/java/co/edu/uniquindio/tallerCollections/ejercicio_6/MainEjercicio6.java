@@ -18,7 +18,7 @@ public class MainEjercicio6 {
         System.out.println("Inventario ordenado por nombre:");
         tienda.listarInventarioOrdenadoPorNombre();
 
-        System.out.println("\nInventario ordenado por precio:");
+        System.out.println("Inventario ordenado por precio:");
         tienda.listarInventarioOrdenadoPorPrecio();
 
         tienda.eliminarProducto("002");

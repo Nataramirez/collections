@@ -30,16 +30,6 @@ public class Tienda {
     }
 
     public void listarInventarioOrdenadoPorNombre() {
-
-        Comparator<String> comparator1 = new Comparator<String>() {
-            @Override
-            public int compare(String o1, String o2) {
-                return o1.toLowerCase().compareTo(o2.toLowerCase());
-            }
-        };
-
-        Comparator<String> comparator =  (a, b) -> a.toLowerCase().compareTo(b.toLowerCase());
-
         productos.sort((a, b) -> a.getNombre().toLowerCase().compareTo(b.getNombre().toLowerCase()));
         productos.forEach(System.out::println);
     }
