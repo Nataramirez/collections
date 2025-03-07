@@ -1,6 +1,6 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio_16;
+package co.edu.uniquindio.tallerCollections.ejercicio_16;
 
-import co.edu.uniquindio.tallerCollections.Ejercicio_16.modelos.Producto;
+import co.edu.uniquindio.tallerCollections.ejercicio_16.modelos.Producto;
 
 import java.util.LinkedHashMap;
 

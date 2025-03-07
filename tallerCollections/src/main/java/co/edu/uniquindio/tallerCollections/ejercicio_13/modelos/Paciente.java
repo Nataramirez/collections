@@ -1,6 +1,6 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio_13.modelos;
+package co.edu.uniquindio.tallerCollections.ejercicio_13.modelos;
 
-import co.edu.uniquindio.tallerCollections.Ejercicio_13.enums.Prioridad;
+import co.edu.uniquindio.tallerCollections.ejercicio_13.enums.Prioridad;
 
 public class Paciente implements Comparable<Paciente> {
     private String nombre;

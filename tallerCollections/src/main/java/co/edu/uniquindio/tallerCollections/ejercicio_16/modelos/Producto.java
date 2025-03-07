@@ -1,4 +1,4 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio_16.modelos;
+package co.edu.uniquindio.tallerCollections.ejercicio_16.modelos;
 
 public class Producto {
     private String nombre;

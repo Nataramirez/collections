@@ -1,4 +1,4 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio_07.modelos;
+package co.edu.uniquindio.tallerCollections.ejercicio_07.modelos;
 
 import java.util.LinkedList;
 

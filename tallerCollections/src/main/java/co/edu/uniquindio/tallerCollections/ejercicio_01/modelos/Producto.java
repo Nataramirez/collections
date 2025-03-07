@@ -1,4 +1,4 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio_01.modelos;
+package co.edu.uniquindio.tallerCollections.ejercicio_01.modelos;
 
 public class Producto implements Comparable<Producto>{
     String nombre;

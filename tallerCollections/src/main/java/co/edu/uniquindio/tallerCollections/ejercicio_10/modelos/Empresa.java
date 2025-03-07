@@ -1,4 +1,4 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio_10.modelos;
+package co.edu.uniquindio.tallerCollections.ejercicio_10.modelos;
 
 import java.util.ArrayList;
 import java.util.HashSet;
