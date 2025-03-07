@@ -1,7 +1,7 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio_13;
+package co.edu.uniquindio.tallerCollections.ejercicio_13;
 
-import co.edu.uniquindio.tallerCollections.Ejercicio_13.modelos.Paciente;
-import co.edu.uniquindio.tallerCollections.Ejercicio_13.enums.Prioridad;
+import co.edu.uniquindio.tallerCollections.ejercicio_13.modelos.Paciente;
+import co.edu.uniquindio.tallerCollections.ejercicio_13.enums.Prioridad;
 
 import java.util.PriorityQueue;
 

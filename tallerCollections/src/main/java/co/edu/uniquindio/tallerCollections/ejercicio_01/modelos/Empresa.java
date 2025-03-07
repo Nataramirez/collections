@@ -1,4 +1,4 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio_01.modelos;
+package co.edu.uniquindio.tallerCollections.ejercicio_01.modelos;
 
 import java.util.Iterator;
 import java.util.TreeSet;

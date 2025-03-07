@@ -1,6 +1,6 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio_04.modelos;
+package co.edu.uniquindio.tallerCollections.ejercicio_04.modelos;
 
-import co.edu.uniquindio.tallerCollections.Ejercicio_04.enums.Prioridad;
+import co.edu.uniquindio.tallerCollections.ejercicio_04.enums.Prioridad;
 
 public class Tarea implements Comparable<Tarea> {
     private String nombre;

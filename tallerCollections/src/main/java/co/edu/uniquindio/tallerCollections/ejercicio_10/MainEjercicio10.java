@@ -1,7 +1,7 @@
-package co.edu.uniquindio.tallerCollections.Ejercicio_10;
+package co.edu.uniquindio.tallerCollections.ejercicio_10;
 
-import co.edu.uniquindio.tallerCollections.Ejercicio_10.modelos.Empleado;
-import co.edu.uniquindio.tallerCollections.Ejercicio_10.modelos.Empresa;
+import co.edu.uniquindio.tallerCollections.ejercicio_10.modelos.Empleado;
+import co.edu.uniquindio.tallerCollections.ejercicio_10.modelos.Empresa;
 
 public class MainEjercicio10 {
     public static void main(String[] args) {
